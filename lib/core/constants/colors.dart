@@ -27,4 +27,8 @@ class AppColors {
   static const Color dashboardBookingColor = Color(0xFFF6EFED);
   static const Color dashboardInvoiceColor = Color(0xFFA9C9C5);
   static const Color dashboardCardLeadIconColor = Color(0xFF28635B);
+
+  static const Color loginBgGradientColor1 = Color.fromARGB(255, 207, 247, 133);
+  static const Color loginBgGradientColor2 = Color.fromARGB(255, 150, 205, 245);
+  static const Color loginBgGradientColor3 = Color.fromARGB(255, 218, 120, 233);
 }

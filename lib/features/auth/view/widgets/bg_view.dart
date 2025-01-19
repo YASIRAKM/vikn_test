@@ -16,9 +16,9 @@ class LoginBgContainer extends StatelessWidget {
           end: Alignment.bottomRight,
           colors: [
             Colors.white,
-            const Color.fromARGB(255, 207, 247, 133),
-            const Color.fromARGB(255, 150, 205, 245),
-            const Color.fromARGB(255, 218, 120, 233),
+            AppColors.loginBgGradientColor1,
+            AppColors.loginBgGradientColor2,
+            AppColors.loginBgGradientColor3,
           ],
           stops: const [0.0, 0.2, 0.7, 1.0],
         ),
